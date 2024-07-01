@@ -8,9 +8,9 @@ Enthusiastic new software engineer here! I am a former small business owner and 
 - 🌱 I love working in React, JavaScript, MySQL, and tons more!
 - 🤔 I’m looking for help with networking
 - 💬 Ask me about social justice and equity!
-- 📫 How to reach me: email me at kglinoga@gmail.com
+- 📫 How to reach me: email me at helloKristinaFaye@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I LOVE the MCU.  She-Hulk all the way!!
+
 
 <!--
 **KGlinoga/kglinoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
