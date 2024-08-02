@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+UPDATE AUGUST 2024 - Check me out on my OTHER profile (https://github.com/hellokristinafaye) . Will be sunsetting this one soon.  Thanks y'all! 
+
 Enthusiastic new software engineer here! I am a former small business owner and hospitality professional with a certificate in Full Stack Web Development from the University of Washington Coding Boot Camp and over 4 years’ experience working remotely.  
 * Emotionally intelligent self-starter with strong written and verbal communication skills.  
 * Empathetic and collaborative, accepts constructive feedback as opportunities for improvement.  
